@@ -2,8 +2,8 @@
 This is a repo containing the code we used for the practice problem of google hashcode 2019.
 
 ## Team Members
-- Matthaios Letsios @leschiffres
-- Konstantinos dogeas @ildoge
+- Matthaios Letsios [@leschiffres](https://github.com/leschiffres)
+- Konstantinos dogeas [@ildoge](https://github.com/ildoge)
 
 ## Brief Description
 
