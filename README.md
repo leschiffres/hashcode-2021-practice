@@ -1,4 +1,4 @@
-# hashcode
+# Google Hashcode 2021 - Practice Problem
 This is a repo containing the code we used for the practice problem of google hashcode 2021.
 
 ## Team Members
