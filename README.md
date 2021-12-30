@@ -1,5 +1,5 @@
 # hashcode
-This is a repo containing the code we used for the practice problem of google hashcode 2019.
+This is a repo containing the code we used for the practice problem of google hashcode 2021.
 
 ## Team Members
 - Matthaios Letsios [@leschiffres](https://github.com/leschiffres)
